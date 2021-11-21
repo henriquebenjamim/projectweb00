@@ -194,7 +194,7 @@ body {
     max-width: 400%;
 }
 
-.right-box1 .right-content{
+.right-box1 .right-content1{
     padding-left: -100px;
     padding-right: 15px;
     text-align: justify;
@@ -216,7 +216,7 @@ body {
 }
 
 .right-box1 .right-list1 ul{
-    margin: 7px;
+    margin: 5px;
     padding-left: 50px;
     padding-right: 340px;
 }
@@ -361,8 +361,6 @@ body {
 .left-box3 .left-content3 h3 {
     margin: 0;
     padding-left: 500px;
-    padding-right: 30px;
-    padding-bottom: 10px;
     color: rgb(0, 0, 0);
     font-size: 22px;
 }
@@ -378,6 +376,11 @@ body {
     padding-left: 400px;
 }
 
+.conclusion {
+    position: absolute;
+    top: 630%;
+
+}
 
 h1 {
     text-align: center;
